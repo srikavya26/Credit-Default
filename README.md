@@ -1,4 +1,3 @@
 ## Credit Default 
-#### Dataset : https://www.kaggle.com/datasets/adarshsng/lending-club-loan-data-csv
-
+https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
 
