@@ -3,13 +3,6 @@
 #### Dataset : 
 *****1.https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients***** 
 # Credit Default Prediction - Machine Learning Analysis
-
-![Python](https://img.shields.io/badge/python-3.9%2B-blue)
-![License](https://img.shields.io/badge/license-MIT-green)
-![Status](https://img.shields.io/badge/status-complete-success)
-![ML](https://img.shields.io/badge/machine-learning-orange)
-![Finance](https://img.shields.io/badge/domain-finance-lightgrey)
-
 ## 📊 Project Overview
 
 A comprehensive machine learning analysis for predicting credit card defaults using the UCI Default of Credit Card Clients dataset. This project implements and compares 7 different machine learning algorithms with extensive feature engineering and visualization.
@@ -36,10 +29,6 @@ A comprehensive machine learning analysis for predicting credit card defaults us
 **Best Model**: Neural Network (Highest ROC-AUC: 0.7675)
 
 ## 🚀 Quick Start
-
-### Prerequisites
-- Python 3.9+
-- pip package manager
 
 ### Installation
 
